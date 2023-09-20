@@ -1,2 +1,2 @@
 # Story
-This is my repository for learning purpose only.
+This repository is for learning purpose only.
